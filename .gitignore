@@ -1,3 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.nc
+old/
+docs/
+figures_paper/
