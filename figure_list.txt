@@ -15,8 +15,5 @@ spectrum_ADCP_StationM_paper.ipynb
 Figure 7 - Stratification
 stratification_woa_rov_paper.ipynb
 
-Figure 8 and 9 - Steady model
-summarize_ADCP_StationM_test_ekmanmodel.ipynb
-
 Figure 10 - Tidal model
 ADCP_utide_results_theory_depth_variation_optimization.ipynb
