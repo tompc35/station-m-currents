@@ -1,0 +1,1 @@
+This directory is for intermediate files saved at different steps of the analysis.
