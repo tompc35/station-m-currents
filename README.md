@@ -22,7 +22,21 @@ Download all current meter data files to one common base directory and extract t
 
 ### Required packages
 
-Conda Environment: py37
+The Python notebooks and modules in this repository make use of the following packages:
+
+* xarray (http://xarray.pydata.org)
+
+* Python tools for wavelet analysis (https://github.com/regeirk/pycwt)
+
+* GSW toolbox (https://github.com/TEOS-10/GSW-Python)
+
+* UTide (https://github.com/wesleybowman/UTide)
+
+* LMFIT (https://lmfit.github.io/lmfit-py/)
+
+* physoce (https://github.com/physoce/physoce-py)
+
+The conda environment can be recreated with the `environment.yml` file, following the instructions at https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 ### Analysis
 
