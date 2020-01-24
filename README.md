@@ -2,12 +2,16 @@ Analysis of current meter data collected by the Monterey Bay Aquarium Research I
 
 Connolly, T. P., P. R. McGill, R. G. Henthorn, D. A. Burrier, C. Michaud, Near-bottom currents at Station M in the abyssal Northeast Pacific, *submitted to Deep Sea Research II*
 
+DOI for for v1.0 of this repository on Zenodo:
+[![DOI](https://www.zenodo.org/badge/198278004.svg)](https://www.zenodo.org/badge/latestdoi/198278004)
+
 ### Data
 
 #### Current meter data
 
 Station M current meter data are publicly available on Zenodo:
 http://dx.doi.org/10.5281/zenodo.3612575
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3612575.svg)](https://doi.org/10.5281/zenodo.3612575)
 
 #### Wind data
 
