@@ -1,6 +1,6 @@
 Analysis of current meter data collected by the Monterey Bay Aquarium Research Institute (MBARI) at Station M, located on the abyssal plain 220 km offshore of central California. Current meter data were collected near the seabed at ~4000 m depth from October 2014–October 2018. Data, methods and results are described in the publication:
 
-Connolly, T. P., P. R. McGill, R. G. Henthorn, D. A. Burrier, C. Michaud, Near-bottom currents at Station M in the abyssal Northeast Pacific, *submitted to Deep Sea Research II*
+Connolly, T. P., P. R. McGill, R. G. Henthorn, D. A. Burrier, C. Michaud (2020) Near-bottom currents at Station M in the abyssal Northeast Pacific, *Deep Sea Research II*, 173, 104743. https://doi.org/10.1016/j.dsr2.2020.104743
 
 DOI for for v1.0 of this repository on Zenodo:
 [![DOI](https://www.zenodo.org/badge/198278004.svg)](https://www.zenodo.org/badge/latestdoi/198278004)
